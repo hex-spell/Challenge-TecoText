@@ -4,8 +4,6 @@ Evaluación de php js puros
 
 **EVALUACION PRINCIPAL**
 
-**La misma corresponde a un 75% del total de las entrevistas.**
-
 1.- Desarrollar en JavaScript y PHP la siguiente consigna.
 
 Tenemos una Tabla en Mysql llamada Stock_Vales donde se almacenan los vales diarios de los usuario para los requerimientos de repuestos mecanicos.
