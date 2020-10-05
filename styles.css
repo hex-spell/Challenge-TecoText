@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+}
+input,
+select {
+  display: block;
+  margin-bottom: 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+table {
+  margin-bottom: 10px;
+}
+
+#submit {
+  float: right;
+}
+
+form {
+  max-width: 500px;
+}
