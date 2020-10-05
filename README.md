@@ -2,6 +2,8 @@
 
 Evaluación de php js puros
 
+**EL UNICO CODIGO QUE TIENE ITEMS ES EL 1**
+
 **EVALUACION PRINCIPAL**
 
 1.- Desarrollar en JavaScript y PHP la siguiente consigna.
